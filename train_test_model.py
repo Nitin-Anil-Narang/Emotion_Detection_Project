@@ -1,4 +1,5 @@
 # This file is to train the model, test it and save it to the disk
+#Data used foir training the model is from kaggle -- https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset
 
 from keras.utils import to_categorical
 from keras_preprocessing.image import load_img
